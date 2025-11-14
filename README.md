@@ -18,14 +18,14 @@ Exploratory Data Analysis (EDA)
 
 Performed in Google Colab, covering:
 
-✔ Data Cleaning
-✔ Handling missing values
-✔ Outlier detection
-✔ Statistical summary
-✔ Churn vs categorical & numerical features
-✔ Correlation heatmap
-✔ Customer behavior segmentation
-✔ Visual insights
+ Data Cleaning
+ Handling missing values
+ Outlier detection
+ Statistical summary
+ Churn vs categorical & numerical features
+ Correlation heatmap
+ Customer behavior segmentation
+ Visual insights
 Power BI Dashboard
 
 An interactive dashboard shows:
